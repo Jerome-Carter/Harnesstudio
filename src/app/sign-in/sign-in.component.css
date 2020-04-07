@@ -1,0 +1,10 @@
+.login-wrapper {
+    background-image: url(https://images.unsplash.com/photo-1586166391804-3afac976cc95?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=882&q=80);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: right center;
+}
+
+.login-wrapper .login {
+    min-height: 70vh;
+}
